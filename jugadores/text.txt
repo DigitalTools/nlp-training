@@ -1,0 +1,22 @@
+El pasado 23 de febrero se celebró una nueva edición del Google Hash Code, concurso por equipos en el que desarrolladores de Europa, Africa y Oriente Medio tratan de resolver en unas horas un reto de ingeniería planteado por Google. (Aquí puedes ver cómo lo celebramos en Sngular).
+
+Nueva jugada maestra por parte de Google a la hora de captar talento de la que podemos sacar dos conclusiones:
+
+Capacidad de aprender (inteligencia) vs Experiencia: En Google Hash Code se plantea un problema “abierto” que puede afrontarse de diferentes maneras. No busca el conocimiento exhaustivo de un lenguaje de programación en particular (aunque sí profundos conocimientos de algoritmia). Lo importante es la “capacidad de enfrentarse a los problemas”.
+Equipo, equipo y equipo: Sería mucho más fácil para Google hacer este ejercicio de manera individual y contratar a los ganadores. ¿Porqué complicarse en averiguar la contribución de cada uno de los miembros del equipo al resultado final?. Seguro entre los ganadores hay equipos en los que un solo miembro hace el 95% del trabajo y otro se limita a ir a comprar Coca Colas. Sin embargo, esa también es una cualidad que interesa a Google: que un equipo de gente valiosa te pida que seas miembro aunque tus conocimientos técnicos sean escasos significa que tu contribución es igualmente importante. O al revés: por muy inteligente que seas si no eres capaz de integrarte en un equipo, no les interesas.
+Cada vez más se impone la importancia del equipo frente al individuo en el mundo empresarial. Google puso en marcha un ambicioso plan para tratar de encontrar las características del “equipo perfecto” llamado Proyecto Aristóteles, gracias al cual ha definido las características comunes de los equipos con mejor rendimiento:
+
+Seguridad psicológica: los integrantes del mismo pueden asumir riesgos sin sentirse inseguros o avergonzados.
+Confianza: Saber que el resto del equipo está tan implicado como nosotros en hacer un gran trabajo.
+Estructura y claridad: los roles, objetivos y planes de ejecución están claros.
+Propósito del trabajo: el equipo siente que trabajan en algo importante para ellos.
+Impacto: Creer que lo que se está haciendo tiene relevancia y ayuda a mejorar el entorno.
+No sólo Google ha estudiado a fondo la dinámica de equipos: también la NASA ha llegado a conclusiones similares en cuanto a la necesidad de integrar en los equipos a gente con determinadas habilidades sociales.
+
+Pensemos en un lugar como la Estación Espacial Internacional (ISS) donde personas altamente entrenadas y motivadas realizan misiones en las que ponen en juego su vida dentro de un espacio minúsculo, y completamente aislados del resto del mundo: una de las claves para el éxito de la misión es el papel del “Capcom”, la persona que desde tierra sirve de enlace entre la estación espacial y el resto del equipo de Houston.
+
+Aunque no disponga del grado de especialización técnico o físico de los astronautas, es clave que sea capaz de construir conexiones positivas y transmitir la información de manera apropiada. Si se construye la confianza entre Capcom y tripulación, las posibilidades de éxito son mucho mayores.
+
+A día de hoy todavía es habitual encontrar en cualquier empresa profesionales capaces, preparados, entusiastas, pero con un enfoque de su trabajo totalmente individualista. Son incapaces de integrarse en un equipo, viendo a sus compañeros como competencia. Afortunadamente, parece que los vientos no les son favorables: es cuestión de (poco) tiempo que se empiece a evaluar resultados en función de tu contribución a tu equipo, en lugar que en relación a tu rendimiento individual.
+
+Por eso, la imagen estereotipada de una entrevista de RRHH donde varios candidatos deben “pelear” por un puesto de trabajo cada vez más se verá sustituida por dinámicas donde unos candidatos deban ayudarse a otros, y la participación en equipos, comunidades o colectivos será tan importante como la experiencia laboral.
